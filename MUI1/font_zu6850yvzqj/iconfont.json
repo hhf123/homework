@@ -1,0 +1,65 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "100435",
+      "name": "支付宝钱包",
+      "font_class": "rectangle390",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "100743",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "100744",
+      "name": "列表",
+      "font_class": "liebiao",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "101225",
+      "name": "购物",
+      "font_class": "gouwu",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "101246",
+      "name": "社交",
+      "font_class": "shejiao",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "101280",
+      "name": "长辈",
+      "font_class": "changbei",
+      "unicode": "e656",
+      "unicode_decimal": 58966
+    },
+    {
+      "icon_id": "101525",
+      "name": "财富A",
+      "font_class": "caifua",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "4399374",
+      "name": "e7e1",
+      "font_class": "ee",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    }
+  ]
+}
